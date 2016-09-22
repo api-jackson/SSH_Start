@@ -187,5 +187,5 @@ hbm.xml文件配置Java类与表的对应关系，以及属性和列的对应关
 
 ------
 
-** Github源码地址：https://github.com/api-jackson/SSH_Start **
+**Github源码地址：https://github.com/api-jackson/SSH_Start**
 
